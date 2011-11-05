@@ -1,3 +1,3 @@
 # README
 This is a README.
-You should read it.
+You should never read it.
